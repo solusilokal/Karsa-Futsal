@@ -2,6 +2,9 @@
 
 Mini website profil dan pemesanan lapangan untuk **Karsa Futsal** (Palangka Raya), dibangun dengan React, Tailwind CSS, Vite, dan Lucide Icons.
 
+- **🌐 Live Demo (GitHub Pages):** [https://solusilokal.github.io/Karsa-Futsal/](https://solusilokal.github.io/Karsa-Futsal/)
+- **📦 Repository GitHub:** [https://github.com/solusilokal/Karsa-Futsal](https://github.com/solusilokal/Karsa-Futsal)
+
 ---
 
 ## 🚀 Cara Menjalankan & Preview Website
